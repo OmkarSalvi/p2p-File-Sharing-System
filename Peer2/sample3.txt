@@ -1,0 +1,75 @@
+
+       ---------------------------------------------------------------- 
+ 
+                              A LITTLE PC HISTORY 
+               WHERE WE'VE BEEN WITH NO IDEA WHERE WE'RE GOING! 
+
+       ---------------------------------------------------------------- 
+
+       In the beginning . . . 
+
+       Computing or calculating by machine began in the middle east 
+       with the use of pegs or stones in trays or channels. The 
+       Babylonians developed the idea of stone or bead counters into 
+       the more modern abacus - modern in the sense that the abacus is 
+       still in use today and in the hands of an experienced operator 
+       can calculate results faster than a computer!  
+
+       The beauty of the abacus is its simplicity in construction and 
+       operation. Inexpensive beads of stone or wood and a simple frame 
+       make up the abacus and the uneducated could quickly be trained 
+       in its use. 
+
+       In the 8th and 9th centuries we note the rise of the Arabic 
+       numeral system which slowly spread through Europe and the then 
+       civilized world. Although a superior calculating system, Arabic 
+       numerals required the user to understand the more complicated 
+       numerical theory associated with the system. 
+
+       By the early 1600's Napier (often associated with the 
+       development of logarithms and their practical application) 
+       introduced a series of rods which could be used for 
+       multiplication - a crude slide rule system. 
+
+       Soon, ever more complicated "calculating engines" or primitive 
+       mechanical computing devices appeared. One example is the 
+       complex Pascaline invented by Blaise Pascal. 
+
+       By 1791 the stage was set. Babbage, an English mathematician and 
+       inventor with the help of Ada Byron (daughter of lord Byron, the 
+       famous poet) developed the ideas for two mechanical calculators 
+       or "number engines." The Difference Engine was a device to solve 
+       polynomial equations by the methods of differences. The 
+       Analytical Engine (which was never built)) was designed as a 
+       general computing device. Both were mechanical in concept using 
+       gears, rods and cams to perform calculations. Unfortunately 
+       neither machine was built since the tooling and machining 
+       technology of the day was imprecise and could not construct the 
+       accurate parts needed. 
+
+       However the models and planning of Babbage and Byron did lead to 
+       important preliminary computing concepts still in use today. As 
+       an aside, we should note from the work of Babbage and Byron that 
+       computing even in its infancy was strongly influenced by BOTH 
+       women and men - let's face it, computing is NOT gender specific! 
+
+       Next we jump to the United States. By 1880 a problem had arisen 
+       with the United States census. By that time, it took 7 years to 
+       process all of the information gathered by the Census Bureau 
+       since all tabulation was done by hand on paper. It was assumed 
+       that the 1890 census might take 10 to 12 years to tabulate. 
+       Clearly a better method was needed to crunch the volume of 
+       numbers and data. A public competition was held to produce a 
+       better indexing or mechanical system to tabulate future census 
+       results. Herman Hollerith, a census employee, handily won by 
+       suggesting the use of punch cards and a form of punch card 
+       reader which tabulated the results in six weeks. Hollerith, wise 
+       in the ways of computing devices and seeing a good opportunity 
+       went on to found the Tabulating Machine Company (later changed 
+       to IBM). Hollerith might be thus thought of as our first 
+       computer entrepreneur! 
+
+       The advent of World War II provided the impetus for the 
+       development of more refined computing devices. The Mark I was an 
+       electromechanical device using relays. IBM built that computer 
+     
